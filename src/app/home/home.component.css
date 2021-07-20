@@ -2,7 +2,7 @@ h4{
     text-align: center;
 }
 p{
-    margin-left: 15px;
+    margin-left: 16px;
     text-align: left;
 }
 .card-block{
@@ -10,5 +10,5 @@ p{
 }
 
 img{
-    padding: 3px;
+    padding: 4px;
 }
